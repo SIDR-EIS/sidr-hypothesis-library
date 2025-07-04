@@ -29,7 +29,7 @@ Each hypothesis represents a distinct mathematical or symbolic proposition deriv
 ## 📂 Hypotheses
 
 ### 🔹 [Prime–Mellin Entire Function (2025)](./prime-mellin-entire-2025/hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.md)  
-A prime-defined, Mellin-integral entire function \( \Upsilon(s) \) that replicates the full non-trivial zero structure of the Riemann zeta function \( \zeta(s) \), but eliminates the need for analytic continuation.  
+A prime-defined, Mellin-integral entire function \( Υ(s) \) that replicates the full non-trivial zero structure of the Riemann zeta function \( ζ(s) \), but eliminates the need for analytic continuation.  
 📄 [Download PDF version](./prime-mellin-entire-2025/hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf)  
 🧾 [View metadata](./prime-mellin-entire-2025/metadata.yaml)
 
