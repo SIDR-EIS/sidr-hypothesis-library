@@ -51,3 +51,10 @@ If referencing this work, please use:
 ## 📬 Contact
 
 For permissions or academic correspondence, open a GitHub issue or reach the author via the repository's contact tab.
+
+---
+
+## 🔗 PDF Downloads
+
+- [Prime–Mellin Entire Function (PDF)](./hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf)
+
