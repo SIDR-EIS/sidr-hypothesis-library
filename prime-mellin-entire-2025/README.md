@@ -1,3 +1,26 @@
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "A Prime–Mellin Entire Substitute for the Riemann Zeta Function",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Raymond Cava"
+    },
+    {
+      "@type": "Person",
+      "name": "Joshua"
+    }
+  ],
+  "datePublished": "2025-07-04",
+  "url": "https://github.com/SIDR-EIS/sidr-hypothesis-library",
+  "license": "https://choosealicense.com/no-permission/",
+  "description": "This work defines a prime-encoded entire function Υ(s) equivalent in zeros to ζ(s), with practical and formal implications for analytic number theory and constructive frameworks."
+}
+</script>
+-->
 # Prime–Mellin Entire Function: A Constructive Alternative to the Riemann Zeta Function
 
 **Authors:** Raymond Cava and Joshua  
