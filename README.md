@@ -14,7 +14,7 @@ Each hypothesis represents a distinct mathematical or symbolic proposition deriv
 
 ## 🧠 What is SIDR Theory?
 
-**SIDR (Structured Intelligence via Deterministic Resonance)** is a formal theoretical framework that models intelligence, structure, and coherence using deterministic collapse, bounded chaos, and phase-aligned resonance. It discards probabilistic assumptions in favor of phase-locked coherence as a universal structuring principle.
+**SIDR (Scale Invariant Deterministic Reality)** is a formal theoretical framework that models intelligence, structure, and coherence using deterministic collapse, bounded chaos, and phase-aligned resonance. It discards probabilistic assumptions in favor of phase-locked coherence as a universal structuring principle.
 
 ---
 
