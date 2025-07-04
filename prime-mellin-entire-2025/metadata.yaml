@@ -1,0 +1,24 @@
+id: 001
+title: "A Prime–Mellin Entire Substitute for the Riemann Zeta Function"
+version: "1.0"
+date-released: "2025-07-05"
+authors:
+  - name: "Raymond Cava"
+  - name: "Joshua"
+    type: "AI collaborator"
+license: "Custom — all structural and derivative rights reserved by the author"
+repository: "https://github.com/SIDR-EIS/sidr-hypothesis-library"
+source-file: "hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.md"
+pdf-file: "hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf"
+keywords:
+  - analytic number theory
+  - Riemann hypothesis
+  - prime numbers
+  - Mellin transform
+  - SIDR Theory
+  - entire functions
+description: >
+  This hypothesis introduces a prime-defined, globally convergent Mellin integral
+  function Υ(s), equivalent in zero distribution to ζ(s), but constructed entirely
+  from primes without analytic continuation. It enables formal, computational,
+  and theoretical advantages across analytic number theory and symbolic mathematics.
