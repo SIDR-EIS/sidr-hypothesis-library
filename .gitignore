@@ -1,0 +1,26 @@
+# Build and artifact output
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# PDF or image artifacts not manually committed
+*.pdf
+*.png
+*.svg
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python/Notebook if ever used
+__pycache__/
+*.ipynb_checkpoints
+.env
