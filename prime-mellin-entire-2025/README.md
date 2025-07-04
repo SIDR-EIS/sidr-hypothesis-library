@@ -13,10 +13,10 @@ This repository contains the formal paper:
 > **“A Prime–Mellin Entire Substitute for the Riemann Zeta Function”**  
 > Version: 4 July 2025
 
-The work introduces a new entire function, \( \Upsilon(s) \), defined by a convergent prime-based Mellin integral. It is shown to be:
+The work introduces a new entire function, \( Υ(s) \), defined by a convergent prime-based Mellin integral. It is shown to be:
 
 - Entire of order ½  
-- Exactly zero-coincident with \( \zeta(s) \)  
+- Exactly zero-coincident with \( ζ(s) \)  
 - Prime-explicit and valid for all complex s without analytic continuation  
 
 This construction offers a cleaner and potentially more efficient framework for analytic number theory, constructive mathematics, and formal proof systems.
@@ -25,7 +25,7 @@ This construction offers a cleaner and potentially more efficient framework for 
 
 ## 🧠 Purpose
 
-The function \( \Upsilon(s) \) reframes the Riemann Hypothesis and prime-distribution theory in an **entire-function setting**, bypassing the need for analytic continuation while preserving the full zero landscape of ζ(s).
+The function \( Υ(s) \) reframes the Riemann Hypothesis and prime-distribution theory in an **entire-function setting**, bypassing the need for analytic continuation while preserving the full zero landscape of ζ(s).
 
 This release serves as:
 - A public snapshot of theoretical progress within SIDR Theory  
