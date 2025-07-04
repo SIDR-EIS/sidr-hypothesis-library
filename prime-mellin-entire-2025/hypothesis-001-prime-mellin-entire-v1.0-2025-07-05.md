@@ -1,6 +1,7 @@
-> 📄 **Rendered Version Available:**  
-> For full LaTeX math rendering, [view the PDF version of this hypothesis](./hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf).  
-> The Markdown version below is for reference and version control only.
+> 📄 **Rendered PDF Version Available:**  
+> [Download the full hypothesis with math rendering here.](./hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf)  
+> *(This Markdown version is for source and reference; math formatting may be incomplete.)*
+
 
 # A Prime–Mellin Entire Substitute for the Riemann Zeta Function
 
