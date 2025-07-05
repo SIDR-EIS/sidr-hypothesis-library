@@ -24,7 +24,7 @@ The materials enable researchers to replicate the test, generate new model submi
 │   └─ Grok Web 3.0 Results - Chronos Anomaly Protocol v3 - The D.R.E.A.M. Filter.md
 │
 ├─ analysis/
-│   └─ Comparative\_Evaluation\_of\_LLM\_Performance\_on\_Chronos\_Anomaly\_Protocol\_v3.md
+│   └─ Comparative_Evaluation_of_LLM_Performance_on_Chronos_Anomaly_Protocol_v3.md
 │       (the academic paper produced from the four result files)
 │
 └─ README.md   ← you are here
