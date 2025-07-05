@@ -33,6 +33,11 @@ A prime-defined, Mellin-integral entire function \( Υ(s) \) that replicates the
 📄 [Download PDF version](./prime-mellin-entire-2025/hypothesis-001-prime-mellin-entire-v1.0-2025-07-05.pdf)  
 🧾 [View metadata](./prime-mellin-entire-2025/metadata.yaml)
 
+### 🔹 [Prime–Mellin Entire Function (2025)](./intrinsic-dirichlet-replacement-2025/hypothesis-001-intrinsic-dirichlet-replacement-v1.0-2025-07-05.md)  
+A fully self‑contained alternative to every classical Dirichlet apparatus (characters, σ‑algebras, modular partitions, trace‑class assumptions).  
+📄 [Download PDF version](./intrinsic-dirichlet-replacement-2025/hypothesis-001-intrinsic-dirichlet-replacement-v1.0-2025-07-05.pdf)  
+🧾 [View metadata](./intrinsic-dirichlet-replacement-2025/metadata.yaml)
+
 ---
 
 ## 🔒 License and Use
