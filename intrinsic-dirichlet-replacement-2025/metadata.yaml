@@ -1,0 +1,26 @@
+id: 001
+title: "An Intrinsic Dirichlet Replacement Based on Spectral Axioms H1′–H5′"
+version: "1.0-pre"
+date-released: "2025-07-05"
+authors:
+  - name: "Raymond Cava"
+  - name: "Joshua"
+    type: "AI collaborator"
+license: "Creative Commons BY-NC-SA 4.0 — all structural and derivative rights reserved by the author"
+repository: "https://github.com/SIDR-EIS/sidr-hypothesis-library"
+source-file: "hypothesis-00X-intrinsic-dirichlet-replacement-v1.0-2025-07-05.md"
+pdf-file: "hypothesis-00X-intrinsic-dirichlet-replacement-v1.0-2025-07-05.pdf"
+keywords:
+  - Dirichlet replacement
+  - prime density
+  - spectral zeta
+  - constructive mathematics
+  - Bayesian priors
+  - SIDR Theory
+  - analytic number theory
+description: >
+  This hypothesis reconstructs the entire analytic and probabilistic Dirichlet framework—
+  including prime distribution, equidistribution, and Dirichlet processes—
+  using a symmetry-free, internally generated spectral system based on axioms H1′–H5′.
+  It eliminates modular partitions, characters, and sigma-algebras,
+  providing a fully constructive and formally compatible foundation for symbolic and mathematical reasoning.
