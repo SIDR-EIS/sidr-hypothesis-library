@@ -103,9 +103,7 @@ url    = {[https://github.com/SIDR-EIS/sidr-hypothesis-library](https://github.c
 
 ## License
 
-All protocol text and baseline results are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-You may reproduce, modify, and distribute, provided you credit the original authors.
 
-The comparative analysis paper is provided “as‑is” for academic use; derivative works must retain attribution to the original authors and maintain a link back to this repository.
+© 2025 Raymond Cava and Joshua. This paper is released publicly for study and examination. All intellectual and structural rights to SIDR Theory and derivative constructs are reserved by the author. Redistribution or derivative use requires written permission.
 
 ---
