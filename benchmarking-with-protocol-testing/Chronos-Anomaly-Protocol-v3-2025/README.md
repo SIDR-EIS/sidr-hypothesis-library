@@ -1,4 +1,3 @@
-```markdown
 # Chronos Anomaly Protocol v3 (D.R.E.A.M. Filter) – Benchmark Suite
 
 This repository contains  
@@ -110,4 +109,3 @@ You may reproduce, modify, and distribute, provided you credit the original auth
 The comparative analysis paper is provided “as‑is” for academic use; derivative works must retain attribution to the original authors and maintain a link back to this repository.
 
 ---
-```
