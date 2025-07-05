@@ -1,5 +1,5 @@
 > 📄 **Rendered PDF Version Available:**  
-> [Download the full hypothesis with math rendering here.]  
+> [Download the full hypothesis with math rendering here.(./hypothesis-001-intrinsic-dirichlet-replacement-v1.0-2025-07-05.pdf)]  
 > *(This Markdown version is for source and reference; math formatting may be incomplete.)*
 
 # The Intrinsic Dirichlet Replacement (IDR) 
