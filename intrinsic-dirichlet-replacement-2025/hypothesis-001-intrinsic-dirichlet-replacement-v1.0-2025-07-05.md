@@ -202,14 +202,13 @@ $$
 
 ## 6 Main analytic theorems
 
-### 6.1 Prime-density
+### 6.1 Prime-density
 
 Let $\pi_\Delta(X) = \#\{p : \lambda_p \le X\}$  
 
 From H1′ and the Euler product:  
 
-$\pi_\Delta(X) = \frac{X}{\log X} + o\left( \frac{X}{\log X} \right),\quad X \to \infty$
-
+$\pi_\Delta(X) = \dfrac{X}{\log X} + o\left( \dfrac{X}{\log X} \right), \quad X \to \infty$
 
 ### 6.2 Dirichlet-type equidistribution
 
