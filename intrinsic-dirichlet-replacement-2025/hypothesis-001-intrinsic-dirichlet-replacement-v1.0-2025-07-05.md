@@ -204,11 +204,11 @@ $$
 
 ### 6.1 Prime-density
 
-Let $\pi_\Delta(X) = \#\{p : \lambda_p \le X\}$  
+Let π₍Δ₎(X) = #{ p : λₚ ≤ X }
 
-From H1′ and the Euler product:  
+From H1′ and the Euler product:
 
-$\pi_\Delta(X) = \dfrac{X}{\log X} + o\left( \dfrac{X}{\log X} \right), \quad X \to \infty$
+π₍Δ₎(X) = X / log X + o(X / log X), as X → ∞
 
 ### 6.2 Dirichlet-type equidistribution
 
