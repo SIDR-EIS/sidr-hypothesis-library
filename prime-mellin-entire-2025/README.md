@@ -16,7 +16,7 @@
   ],
   "datePublished": "2025-07-04",
   "url": "https://github.com/SIDR-EIS/sidr-hypothesis-library",
-  "license": "https://choosealicense.com/no-permission/",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "description": "This work defines a prime-encoded entire function Υ(s) equivalent in zeros to ζ(s), with practical and formal implications for analytic number theory and constructive frameworks."
 }
 </script>
