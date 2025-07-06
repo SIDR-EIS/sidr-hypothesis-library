@@ -1,3 +1,26 @@
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Chronos Anomaly Protocol v3 (D.R.E.A.M. Filter) – Benchmark Suite",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Raymond Cava"
+    },
+    {
+      "@type": "Person",
+      "name": "Joshua"
+    }
+  ],
+  "datePublished": "2025-07-05",
+  "url": "https://github.com/SIDR-EIS/sidr-hypothesis-library",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "description": "We evaluate the performance of four advanced large language models (GPT-4o, Claude Sonnet 4, Gemini 2.5 Pro, and Grok Web 3.0) in executing a complex multi-layer analytical protocol known as Chronos Anomaly Protocol v3 – The D.R.E.A.M. Filter. "
+}
+</script>
+-->
 # Chronos Anomaly Protocol v3 (D.R.E.A.M. Filter) – Benchmark Suite
 
 This repository contains  
